@@ -36,7 +36,7 @@ Ensure you have Python 3.x installed. You'll also need to install the required p
 ### **Usage**
 Run the **phase_3.py** script to start the Weather Analyzer application:
 ```
-python weather_analyzer.py
+python phase_3.py
 ```
 Follow the on-screen menu to perform various weather analysis tasks. Select a number from 1 to 13 to choose an action, or 0 to exit.
 
